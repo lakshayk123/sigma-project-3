@@ -1,5 +1,7 @@
 h1{
     color: purple;
+    background-color: brown;
     background-color: chocolate;
     border: 2px solid green;
+    text-align: center;
 }
